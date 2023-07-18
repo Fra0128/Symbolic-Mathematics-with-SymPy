@@ -1,4 +1,4 @@
-WORKING PROGRESS!
+**WORKING PROGRESS!**
 
 # Symbolic Mathematics with SymPy
 
